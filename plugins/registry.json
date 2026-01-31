@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "antigravity-auth",
+      "path": "plugins/antigravity-auth",
+      "description": "Authentication plugin ported from yetone/alma-plugins (antigravity-auth)."
+    }
+  ]
+}
